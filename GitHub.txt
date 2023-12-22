@@ -2,7 +2,13 @@ GitHub
 はじめ方　https://qiita.com/masato5579/items/8a08ea9988f4fd0097e3
 
 pullの方法
+ git pull origin main
 pushの方法
+ git push origin main
 branchのきり方
+ 新しいbranchの作成:
+ git branch branch-name
+ 作成したブランチに切り替える:
+ git switch feature-branch
 
 FAQ
