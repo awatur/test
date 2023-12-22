@@ -10,6 +10,7 @@ branchのきり方
   git branch branch-name
  作成したブランチに切り替える:
   git switch feature-branch
- branchでcommit と push
-  
+ branch内でcommitしてpushする
+ mainにpushするにはmainに移動して
+  git checkout main
 FAQ
