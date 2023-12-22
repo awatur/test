@@ -1,0 +1,9 @@
+GitHub
+はじめ方　https://qiita.com/masato5579/items/8a08ea9988f4fd0097e3
+　１．Git上でリポジトリを作成する
+　２．「git init」でgitを初期化する(初回のみ)
+pullの方法
+pushの方法
+branchのきり方
+
+FAQ
