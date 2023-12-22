@@ -7,8 +7,9 @@ pushの方法
  git push origin main
 branchのきり方
  新しいbranchの作成:
- git branch branch-name
+  git branch branch-name
  作成したブランチに切り替える:
- git switch feature-branch
-
+  git switch feature-branch
+ branchでcommit と push
+  
 FAQ
